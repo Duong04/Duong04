@@ -8,23 +8,30 @@
 - ✍ Trying every day!💪
 
 <br />
+<br />
 
-## 📫 How to reach me:
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/duong-nguyen-thanh-23538427a/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <a href="https://www.facebook.com/profile.php?id=100093887452815" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="duong04-facebook" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100093887452815" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/Duong04" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="mailto:duongnt3092004t@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="https://www.tiktok.com/@tinhsocode" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=-x2V8Q63DerT&format=png&color=000000" alt="tiktok" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/duong-nguyen-thanh-23538427a/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="duong04-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/tinhsocode/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duong04-instagram" />
+  </a>
+  <a href="mailto:duongnt3092004t@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="duong04-email" />
+  </a>
+</div>
+
 
 ## Skills:
 <p align="center">
