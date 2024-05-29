@@ -12,7 +12,7 @@
 <br />
 <br />
 
-## 👽 Where to find me 👽
+<h1 align="center">👽 Where to find me 👽</h1>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
