@@ -17,19 +17,19 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="https://www.facebook.com/profile.php?id=100093887452815" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100093887452815" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="duong04-facebook" />
   </a>
-  <a href="https://www.tiktok.com/@tinhsocode" target="blank">
+  <a href="https://www.tiktok.com/@tinhsocode" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=-x2V8Q63DerT&format=png&color=000000" alt="tiktok" />
   </a>
-  <a href="https://www.linkedin.com/in/duong-nguyen-thanh-23538427a/" target="blank">
+  <a href="https://www.linkedin.com/in/duong-nguyen-thanh-23538427a/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="duong04-linkedin" />
   </a>
-  <a href="https://www.instagram.com/tinhsocode/" target="blank">
+  <a href="https://www.instagram.com/tinhsocode/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duong04-instagram" />
   </a>
-  <a href="mailto:duongnt3092004t@gmail.com" target="top">
+  <a href="mailto:duongnt3092004t@gmail.com">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="duong04-email" />
   </a>
 </div>
