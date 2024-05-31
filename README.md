@@ -73,8 +73,12 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duong04&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Duong04&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <a href="#" title="Duong04">
+    <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duong04&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+      <a href="#" title="Duong04">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Duong04&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
     </td>
     <td>
       <p align="center"> 
