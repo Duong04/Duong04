@@ -82,7 +82,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://i.pinimg.com/originals/b7/93/ae/b793aebd01b9271b999d03dfaf76be21.gif" alt="dev" width="100%"/>
+        <img src="./57e353468c03daab4846f3c3418f436f.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
