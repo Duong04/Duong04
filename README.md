@@ -14,7 +14,6 @@
 
 <h1 align="center">👽 Where to find me 👽</h1>
 <br>
-<!-- https://icons8.com -->
 <div align="center">
 
   <a href="https://www.facebook.com/profile.php?id=100093887452815" target="_blank">
@@ -38,7 +37,6 @@
 ## Skills:
 <p align="center">
  <br>
-<!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb4" alt="Php logo" title="PHP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></span>
