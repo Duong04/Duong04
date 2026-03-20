@@ -19,6 +19,7 @@ I'm a passionate **Web Developer** dedicated to building clean, efficient, and u
 - 🌱 **Learning:** Deep diving into React and modern frontend architectures.
 - 💬 **Ask me about:** PHP, JavaScript, and web development best practices.
 - ⚡ **Fun fact:** "✍ Trying every day!💪"
+- 🐞 **Slogan:** "It works on my machine! 💻🐶"
 
 ---
 
