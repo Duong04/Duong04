@@ -1,9 +1,8 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="/img/giphy.gif">
 <h1 align="center">Hi 👋, I'm Duong</h1>
 <p align="center">
   <h3 align="center">I'm a web developer</h3>
 </p>
-
 
 - ✍ Trying every day!💪
 
@@ -33,8 +32,8 @@
   </a>
 </div>
 
-
 ## Skills:
+
 <p align="center">
  <br>
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777bb4" alt="Php logo" title="PHP" height="25" /></span>
@@ -77,7 +76,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="./57e353468c03daab4846f3c3418f436f.gif" alt="dev" width="100%"/>
+        <img src="/img/57e353468c03daab4846f3c3418f436f.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
