@@ -1,4 +1,4 @@
-<img align="left" width="400" src="/img/giphy.gif">
+<img align="left" width="400" src="https://github.com/Duong04/Duong04/raw/main/img/giphy.gif">
 <h1 align="center">Hi 👋, I'm Duong</h1>
 <p align="center">
   <h3 align="center">I'm a web developer</h3>
@@ -76,7 +76,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="/img/57e353468c03daab4846f3c3418f436f.gif" alt="dev" width="100%"/>
+        <img src="https://github.com/Duong04/Duong04/raw/main/img/57e353468c03daab4846f3c3418f436f.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
