@@ -27,7 +27,7 @@ I'm a passionate **Web Developer** dedicated to building clean, efficient, and u
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,html,css,bootstrap,docker,git,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,vue,html,css,bootstrap,docker,git,firebase&theme=dark" />
   </a>
 </p>
 
